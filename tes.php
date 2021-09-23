@@ -30,8 +30,8 @@ session_start();
    	 		$_SESSION['cart'][] = $session_array;
    	 }
    }
-   
- ?>
+   //
+ ?> 
 
 <!DOCTYPE html>
 <html>
